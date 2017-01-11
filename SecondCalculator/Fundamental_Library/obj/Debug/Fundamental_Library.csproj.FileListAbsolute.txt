@@ -1,0 +1,5 @@
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\Fundamental_Library\bin\Debug\Fundamental_Library.dll
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\Fundamental_Library\bin\Debug\Fundamental_Library.pdb
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\Fundamental_Library\obj\Debug\Fundamental_Library.csprojResolveAssemblyReference.cache
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\Fundamental_Library\obj\Debug\Fundamental_Library.dll
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\Fundamental_Library\obj\Debug\Fundamental_Library.pdb

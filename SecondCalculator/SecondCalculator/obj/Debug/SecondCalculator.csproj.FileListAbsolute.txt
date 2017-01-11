@@ -1,0 +1,13 @@
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\SecondCalculator.exe.config
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\SecondCalculator.exe
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\SecondCalculator.pdb
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\Logic Library.dll
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\Fundamental_Library.dll
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\Logic Library.pdb
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\bin\Debug\Fundamental_Library.pdb
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.csprojResolveAssemblyReference.cache
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.Form1.resources
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.Properties.Resources.resources
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.csproj.GenerateResource.Cache
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.exe
+c:\users\choisoo\documents\visual studio 2015\Projects\SecondCalculator\SecondCalculator\obj\Debug\SecondCalculator.pdb
